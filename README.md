@@ -17,7 +17,7 @@ go mod tidy
 
 ### 2. Setup Env
 ```bash
-GRPC_PORT=:50051
+GRPC_PORT=50051
 
 DB_HOST=localhost
 DB_PORT=5432
