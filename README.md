@@ -6,7 +6,7 @@ Sistem backend untuk autentikasi dan manajemen user menggunakan **gRPC**, **Gola
 
 ---
 
-## 🚀 Setup Cepat
+## Setup 
 
 ### 1. Clone & install dependency
 
